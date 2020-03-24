@@ -1,6 +1,7 @@
-package com.iflippie.level2_task1
+package com.iflippie.level2_task1.model
 
 import androidx.annotation.DrawableRes
+import com.iflippie.level2_task1.R
 
 data class Place(
     var name: String,
